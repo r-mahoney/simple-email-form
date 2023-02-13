@@ -3,9 +3,6 @@ body div input, textarea {
 }
 div {
     margin-bottom: 40px;
-}
-
-div {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
